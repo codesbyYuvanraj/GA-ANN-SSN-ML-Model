@@ -112,7 +112,7 @@ The framework supports three benchmark image datasets:
 
 Follow the steps below to execute the **Unified GA–ANN–SSN** pipeline locally or in Colab.
 
-### 🌐 2. Colab Execution
+### 🌐 1. Colab Execution
 
 **Steps**
 - Upload `Ga_ann_ssn_3datasets.ipynb` file to **Google colab**
@@ -124,7 +124,7 @@ Follow the steps below to execute the **Unified GA–ANN–SSN** pipeline locall
 - Fast Execution
 - No need of locally downloaded datasets
 
-### 🖥️ 1. Local Execution
+### 🖥️ 2. Local Execution
 
 If you are running the project **locally**, make sure the following **dataset folders** are present in the **same directory** as your main script (`Ga_ann_ssn_3datasets.py`):
 
