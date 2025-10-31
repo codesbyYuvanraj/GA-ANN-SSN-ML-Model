@@ -112,7 +112,17 @@ The framework supports three benchmark image datasets:
 
 Follow the steps below to execute the **Unified GA–ANN–SSN** pipeline locally or in Colab.
 
----
+### 🌐 2. Colab Execution
+
+**Steps**
+- Upload `Ga_ann_ssn_3datasets.ipynb` file to **Google colab**
+- Connect runtime to `T4 GPU`
+- Run all cells 
+
+**Advantages** of `Googel Colab` Execution
+- Uses `T4 GPU`, No need of having GPU in local PC 
+- Fast Execution
+- No need of locally downloaded datasets
 
 ### 🖥️ 1. Local Execution
 
@@ -135,19 +145,6 @@ Run the project using:
 ```bash
 python Ga_ann_ssn_3datasets.py
 ```
----
-
-### 🌐 2. Colab Execution
-
-**Steps**
-- Upload `Ga_ann_ssn_3datasets.ipynb` file to **Google colab**
-- Connect runtime to `T4 GPU`
-- Run all cells 
-
-**Advantages** of `Googel Colab` Execution
-- Uses `T4 GPU`, No need of having GPU in local PC 
-- Fast Execution
-- No need of locally downloaded datasets
 
 ---
 ## 📈 Results & Performance
